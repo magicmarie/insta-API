@@ -11,7 +11,7 @@ gem "puma", ">= 5.0"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 gem "bcrypt", "~> 3.1.7"
-gem "jwt", "~> 2.5" # JSON Web Token (JWT) for authentication
+gem "jwt", "~> 3.0" # JSON Web Token (JWT) for authentication
 
 gem "active_model_serializers"  # JSON serialization for Rails
 
